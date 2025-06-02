@@ -21,5 +21,5 @@ PRODUCTS_MAPPING = {
 
 # Dictionary mapping index names to their mappings
 INDEX_MAPPINGS = {
-    "": PRODUCTS_MAPPING,
+    "products": PRODUCTS_MAPPING,
 } 
